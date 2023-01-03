@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import utm
+import seaborn as sns
 import time as time
 start = time.time()
 #add data
